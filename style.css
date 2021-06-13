@@ -1,0 +1,47 @@
+@charset "utf-8";
+/* CSS Document */
+
+#juntos{
+	margin-left: 200px;
+	margin-top: -200px;
+}
+
+#grupo{
+	margin-left: -30px;
+}
+
+#cards{
+	margin-left: 100px;
+	margin-top: 30px;
+}
+
+#contato{
+	background-color: #EEEEEE;
+	
+}
+
+#contato1{
+	text-align: center;
+	margin-left: 400px;
+}
+
+#localdiv{
+	border: solid #DF0209 2px;
+	padding: 10px;
+	margin: 10px;
+	background-color: white;
+	margin-top: 50px;
+}
+
+#centralAtend{
+	border: solid #DF0209 2px;
+	padding: 10px;
+	margin: 10px;
+	background-color: white;
+	margin-top: 50px;
+}
+
+#icons{
+	font-size: 40px;
+}
+
